@@ -40,11 +40,11 @@ Script designed to mass mint subdomains from your main domain [(Unstoppable Doma
         ```
     - edit `sub.txt` with list of subname of your domain that you want to mint, for example if you want to mint `sub1.example.domain` put `sub1` in the sub.txt
         ```
-        subname1
-        subname2
-        subname3
+        sub1
+        sub2
+        sub3
         ```
-      For above example, the script will mint `subname1.example.domain` `subname2.example.domain` and `subname3.example.domain`
+      For above example, the script will mint `sub1.example.domain` `sub2.example.domain` and `sub3.example.domain`
 
 2. run the script
     ```bash
