@@ -1,6 +1,6 @@
-# Unstoppable Domain subdomain minter
+# Unstoppable Domains subdomain minter
 
-Script designed to mass mint subdomains from your main domain (Unstoppable Domain) on the Polygon network.
+Script designed to mass mint subdomains from your main domain [(Unstoppable Domains)](https://unstoppabledomains.com) on the Polygon network.
 
 ## Features
 
@@ -9,6 +9,7 @@ Script designed to mass mint subdomains from your main domain (Unstoppable Domai
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (version 12 or higher)
+- Main domain from [Unstoppable Domains](https://unstoppabledomains.com)
 - A funded account on the Polygon network.
 
 ## Setup
