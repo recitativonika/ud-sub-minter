@@ -17,7 +17,7 @@ const consoleWidth = process.stdout.columns;
 
 console.log("");
 console.log(`${COLORS.BOLD_YELLOW}${centerAlignText("============================================", consoleWidth)}${COLORS.RESET}`);
-console.log(`${COLORS.BOLD_YELLOW}${centerAlignText("Unstoppable Domain subdomain minter", consoleWidth)}${COLORS.RESET}`);
+console.log(`${COLORS.BOLD_YELLOW}${centerAlignText("Unstoppable Domains subdomain minter", consoleWidth)}${COLORS.RESET}`);
 console.log(`${COLORS.BOLD_YELLOW}${centerAlignText("github.com/recitativonika", consoleWidth)}${COLORS.RESET}`);
 console.log(`${COLORS.BOLD_YELLOW}${centerAlignText("============================================", consoleWidth)}${COLORS.RESET}`);
 console.log("");
