@@ -47,7 +47,7 @@ const contractABI = [
 const contract = new ethers.Contract(contractAddress, contractABI, wallet);
 
 async function issueWithRecords() {
-  const address = "0x9052E8f0607736cB0085f5057cdCB1C783277040";
+  const address = wallet.address;
 
   const mainDomain = fs.readFileSync('maindomain.txt', 'utf8').trim();
   const domainParts = mainDomain.split('.');
